@@ -1,4 +1,4 @@
-## Project: MP3 Player App
+## Project : MP3 Player App
 
 ### Overview
 The MP3 Player App is a desktop application designed to provide users with an easy-to-use and efficient platform for playing and managing their MP3 music files. The app features a user-friendly interface, advanced playback controls, and playlist management capabilities, making it a comprehensive solution for music enthusiasts.
