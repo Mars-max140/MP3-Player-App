@@ -33,11 +33,10 @@ The MP3 Player App is a desktop application designed to provide users with an ea
    - Settings for playback preferences and library management are available.
 
 ### Technologies Used
-- **Programming Language**: The app is developed using a programming language suitable for desktop applications, such as Python, Java, or C#.
-- **GUI Framework**: A graphical user interface (GUI) framework like Tkinter (Python), JavaFX (Java), or Windows Presentation Foundation (WPF) (C#) is used to create the user interface.
-- **Audio Library**: An audio processing library such as Pygame (Python), JavaZoom's JLayer (Java), or NAudio (C#) is used to handle MP3 playback.
-- **Database**: A local database (e.g., SQLite) can be used to store and manage playlist information and user preferences.
-
+- **Programming Language**
+- **GUI Framework**
+- **Audio Library**
+- 
 ### How It Works
 1. **Initialization**:
    - Upon launching the app, it initializes the user interface and scans the user's computer for MP3 files.
